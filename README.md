@@ -1,7 +1,5 @@
 # Image-Cartoonifier---WIDS
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)](https://www.python.org/downloads/release/python-360/) 
+ 
 # Cartoonify_reality
 
 Even the basics of image processing if done properly can be handy which otherwise would require a machine learning model.This project is one of such inspiration which **cartoonizes** images and videos using only core **opencv filters** and functions.It also uses K-means clustering algorithm to compress the image. This clustering gives it the basic cartoonish tinge it requires.
@@ -11,15 +9,6 @@ Even the basics of image processing if done properly can be handy which otherwis
 **Filters**-Bialateral Filter, Contours, erode, Canny(edge detection)
 
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-scipy 
-numpy 
-cv2
-```
 
 ## Getting Started
 
@@ -36,21 +25,6 @@ $cartoonize.py
 ## Cartoon Output
 ![The Output Image of cartoonize.py](https://github.com/Shaashwat05/Cartoonify_reality/blob/master/cartoon.jpg)
 
-## Built With
 
-* [python](https://www.python.org/) - The software used
-## Author
-[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
-
-* [**Shaashwat Agrawal**](https://github.com/Shaashwat05) 
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-
-## Documentation
-
-The entire documentation and explanation of code as well as concepts can be found in this article: https://iot4beginners.com/cartoonize-reality-with-opencv-and-raspberry-pi/
 
 
